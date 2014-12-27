@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <currency name="Евро" link="http://www.finam.ru/analysis/profile2C87E/?market=41" />
+  <currency name="Доллар" link="http://www.finam.ru/analysis/profile2C880/?market=41" />
+  <currency name="Нефть Brent" link="http://www.finam.ru/analysis/profile04C11/?market=24" />
+</configuration>
