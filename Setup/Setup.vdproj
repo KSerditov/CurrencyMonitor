@@ -230,7 +230,7 @@
         "Keywords" = "8:"
         "ARPCOMMENTS" = "8:System tray utility which shows actual data from Finam"
         "ARPURLINFOABOUT" = "8:"
-        "ARPPRODUCTICON" = "8:"
+        "ARPPRODUCTICON" = "8:_1B7AE69F9CCC4FE891B157A326E64C82"
         "ARPIconIndex" = "3:0"
         "SearchPath" = "8:"
         "UseSystemSearchPath" = "11:TRUE"
@@ -776,7 +776,7 @@
         {
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_60F68019CAA040CEB762A708899D2718"
             {
-            "SourcePath" = "8:..\\CurrencyMonitorApp\\obj\\Release\\TestServiceApp.exe"
+            "SourcePath" = "8:..\\CurrencyMonitorApp\\obj\\Release\\CurrencyMonitorApp.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_6385B3C74186404F8F12BE4D3436FE4F"
